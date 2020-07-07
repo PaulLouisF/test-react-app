@@ -1,0 +1,12 @@
+.UserOutput {
+  border: 2px solid black;
+  width: 60%;
+  padding: 16px;
+  margin: 16px;
+  background-color: grey;
+  text-align: center
+}
+.red {
+  color: red;
+}
+
